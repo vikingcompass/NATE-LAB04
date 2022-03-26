@@ -1,2 +1,2 @@
-# NATE-LAB04
-parter project with Jon Armstrong ... Wireframe, HTML, CSS, JavaScript
+# NATE-LAB102
+Labnotes ... Markdown, Gitflow, Wireframe, HTML, CSS, JavaScript
